@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "@jridgewell/sourcemap-codec": "^1.4.14",
-    "@rollup/plugin-terser": "^0.2.1"
+    "@rollup/plugin-terser": "^0.2.1",
+    "algoliasearch": "^4.14.3",
+    "mapbox-gl": "^2.11.1"
   }
 }
