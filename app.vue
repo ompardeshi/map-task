@@ -1,8 +1,9 @@
 <template>
-  <div class= "bg-black h-screen m-5 p-5">
+  <div class = "h-screen">
+  <div class= "bg-black h-full m-1 p-5">
     <Map class="h-full" ></Map>
   </div>
-
+</div>
 
 </template>
 
